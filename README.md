@@ -1,8 +1,8 @@
 # Website name: Speed
 
-## You can visit [Speed](https://tripper-e18d1.web.app/)
+## You can visit [Speed](https://speed-76716.web.app/)
 
-## You can check backend link [Speed Heroku](https://ghostly-shadow-66375.herokuapp.com/)
+## You can check backend link [Speed Heroku](https://radiant-wave-84161.herokuapp.com/)
 
 ## About Website
 
